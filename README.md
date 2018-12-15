@@ -1,6 +1,8 @@
-# Student: Adriano Silva
+# Student: 
+Adriano Silva
 
-# Summary: This VR project is a small carnival with 4 games. The player can play them in the preferred order. The goal is to make enough points to win the Teddy bear.
+# Summary: 
+This VR project is a small carnival with 4 games. The player can play them in the preferred order. The goal is to make enough points to win the Teddy bear.
 
 # Udacity Carnival
 Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
