@@ -1,15 +1,17 @@
-# Student: 
-Adriano Silva
-
-# Summary: 
-This VR project is a small carnival with 4 games. The player can play them in the preferred order. The goal is to make enough points to win the Teddy bear.
-
 # Udacity Carnival
 Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) program.
 
 - Course: Introduction to Virtual Reality
 - Project: Udacity Carnival
 
+### Author
+Adriano Silva
+
+### Summary
+This VR project is a small carnival with 4 games. The player can play them in the preferred order. The goal is to make enough points to win the Teddy bear.
+
+### Target Device
+Android
 
 ### Versions Used
 - [Unity LTS Release 2017.4.15f1](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
